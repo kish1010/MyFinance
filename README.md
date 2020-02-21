@@ -1,4 +1,4 @@
-## Klug Saver
+## MyFinance for Kishor - A fork of Klug Saver
 Expense Tracker app written in React Native
 
 [Learn more](https://www.klugsaver.com/)
